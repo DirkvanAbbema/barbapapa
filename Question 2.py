@@ -6,11 +6,13 @@ print("Hello, World!")
 # Basic arithmetic operations
 a = 10
 b = 5
+c = 6
 
-print("Addition:", a + b)
-print("Subtraction:", a - b)
-print("Multiplication:", a * b)
-print("Division:", a / b)
+
+print("Addition:", a + b+c)
+print("Subtraction:", a - b-c)
+print("Multiplication:", a * b*c)
+print("Division:", a / b/c)
 
 # Loop example
 for i in range(5):
