@@ -7,7 +7,7 @@ print("Hello, World!")
 a = 10
 b = 5
 c = 6
-d = 3
+D = 3
 
 print("Addition:", a + b+c +D)
 print("Subtraction:", a - b-c)
